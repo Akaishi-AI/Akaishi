@@ -1,6 +1,6 @@
 # Akaishi Dashboard
 
-![Akaishi Logo](./logo.png)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
